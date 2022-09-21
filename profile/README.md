@@ -22,5 +22,5 @@ The workbench is set up as a micro-service system running on kubernetes.
 
 ## Other noticible repository
 
-* __experiments__
+* [__experiments__](https://github.com/DARPA-ASKEM/experiments)
   * A place to save and share all your quick experimental code work.
