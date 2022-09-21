@@ -12,7 +12,7 @@ _TERArium_, the HMI workbench of _ASKEM_, is composed of multiple repository.
 The workbench is set up as a micro-service system running on kubernetes.
 
 * __TERArium__
-  * Contains all the scripts and setups necessary to run _TERArium_.//////
+  * Contains all the scripts and setups necessary to run _TERArium_.
 * __T-HMI__
   * Web application and server.
 * __T-store__
