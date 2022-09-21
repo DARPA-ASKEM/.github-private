@@ -4,20 +4,20 @@ knowledge discovery.
 
 This organization is the place to save and keep all projects related to _ASKEM_
 in one place. _TERArium_ being one of those project, it is also composed of
-multiple repository all prefixed by `T-`.
+multiple repository.
 
-## TERArium Repository structure
+## TERArium
 
 _TERArium_, the HMI workbench of _ASKEM_, is composed of multiple repository.
 The workbench is set up as a micro-service system running on kubernetes.
 
 * __TERArium__
   * Contains all the scripts and setups necessary to run _TERArium_.
-* __T-HMI__
+* __HMI__
   * Web application and server.
-* __T-store__
+* __store__
   * Data model and _ElasticSearch_ mappings.
-* __T-gateway__
+* __gateway__
   * HTTP gateway and user authentication.
 
 ## Other noticible repository
