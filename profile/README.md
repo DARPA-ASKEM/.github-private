@@ -13,14 +13,16 @@ multiple repository all prefixed by `T-`.
 _TERArium_, the HMI workbench of _ASKEM_, is composed of multiple repository.
 The workbench is set up as a micro-service system running on kubernetes.
 
-### TERArium
-Contains all the scripts and setups necessary to run _TERArium_.//////
+* TERArium
+  Contains all the scripts and setups necessary to run _TERArium_.//////
+* T-HMI
+  _TERArium_ web application and server.
+* T-store
+  Data model and _ElasticSearch_ mappings.
+* T-gateway
+  HTTP gateway and user authentication.
 
-### T-HMI
-_TERArium_ web application and server.
+## Other noticible repository
 
-### T-store
-Data model and _ElasticSearch_ mappings.
-
-### T-Gateway
-HTTP gateway and user authentication.
+* experiments
+  A place to save and share all your quick experimental code work.
