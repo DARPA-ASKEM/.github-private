@@ -1,10 +1,6 @@
-The _Assisted Scientific Knowledge Extraction Modelling (ASKEM)_ program is
-developing technology to automate some of the manual processes of scientific
-knowledge discovery.
-
 This organization is the place to save and keep all projects related to _ASKEM_
 in one place. _TERArium_ being one of those project, it is also composed of
-multiple repository.
+multiple repositories.
 
 ## TERArium
 
