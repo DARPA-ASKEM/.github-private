@@ -11,7 +11,7 @@ The workbench is set up as a micro-service system running on kubernetes.
   * Contains all the scripts and setups necessary to run _TERArium_.
 * __HMI__
   * Web application and server.
-* [__store__]](https://github.com/DARPA-ASKEM/store)
+* [__store__](https://github.com/DARPA-ASKEM/store)
   * Data model and _ElasticSearch_ mappings.
 * [__gateway__](https://github.com/DARPA-ASKEM/gateway)
   * HTTP gateway and user authentication.
