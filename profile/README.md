@@ -10,7 +10,7 @@ The workbench is set up as a micro-service system running on kubernetes.
 * [__TERArium__](https://github.com/DARPA-ASKEM/TERArium): Web application and server
 * [__orchestration__](https://github.com/DARPA-ASKEM/orchestration): Contains all the scripts and setups
 * [__data-annotation__](https://github.com/DARPA-ASKEM/data-annotation): DOJO service
-* [__store__](https://github.com/DARPA-ASKEM/store): Data model and _ElasticSearch_ mappings
+* [__data-store-api__](https://github.com/DARPA-ASKEM/data-store-api): Data Service
 * [__gateway__](https://github.com/DARPA-ASKEM/gateway): HTTP gateway and user authentication
 
 ## Other noticible repository
