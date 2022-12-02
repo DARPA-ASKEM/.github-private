@@ -19,6 +19,7 @@ TERArium is composed of multiple repository that are setup as a kubernetes micro
 * [__TERArium__](https://github.com/DARPA-ASKEM/TERArium): Web application and server
 * [__orchestration__](https://github.com/DARPA-ASKEM/orchestration): Contains all the scripts and setups
 * [__data-service__](https://github.com/DARPA-ASKEM/data-service): Data Service
+* [__model-service__](https://github.com/DARPA-ASKEM/model-service): Model Service
 
 ### Other noticible repository
 
