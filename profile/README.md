@@ -25,3 +25,8 @@ TERArium is composed of multiple repository that are setup as a kubernetes micro
 
 * [__experiments__](https://github.com/DARPA-ASKEM/experiments)
   * A place to save and share all your quick experimental code work.
+
+### Project Management
+
+* All tasks are set on [Project](https://github.com/orgs/DARPA-ASKEM/projects/1)
+* Tasks must be SMART: Specific, Measurable, Attainable, Relevant, and Time-bound.
